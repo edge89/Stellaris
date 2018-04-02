@@ -1,2 +1,0 @@
-# Stellaris
-Stellaris Game Saving
