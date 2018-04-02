@@ -1,0 +1,1225 @@
+[20:27:50][lexer.cpp:277]: File 'mod/ugc_1129869415.mod' should be in utf8-bom encoding (will try to use it anyways)
+[20:27:50][lexer.cpp:277]: File 'mod/ugc_1230096820.mod' should be in utf8-bom encoding (will try to use it anyways)
+[20:27:50][lexer.cpp:277]: File 'mod/ugc_1313533917.mod' should be in utf8-bom encoding (will try to use it anyways)
+[20:27:50][lexer.cpp:277]: File 'mod/ugc_734129025.mod' should be in utf8-bom encoding (will try to use it anyways)
+[20:27:50][lexer.cpp:277]: File 'mod/ugc_832446933.mod' should be in utf8-bom encoding (will try to use it anyways)
+[20:29:08][localization_reader.cpp:223]: Expected quotation mark (") at end of line 275 in localisation/english/horizonsignal_l_english.yml
+[20:29:08][localization_reader.cpp:254]: Illegal break character (utf32=20234) at line 24 and column 136 in localisation/english/prescripted_l_english.yml
+[20:29:08][localization_reader.cpp:151]: Expected colon(:) at line 12 and column 2 in localisation/english/synthetic_dawn_events_l_english.yml
+[20:29:08][localization_reader.cpp:254]: Illegal break character (utf32=20687) at line 328 and column 63 in localisation/english/tutorial_l_english.yml
+[20:29:08][localization_reader.cpp:199]: Expected quotation mark (") at line 383 and column 27 in localisation/english/tutorial_l_english.yml
+[20:29:44][guigraphics.cpp:909]: No font with name null_font
+[20:29:44][guigraphics.cpp:909]: No font with name null_font
+[20:29:44][guigraphics.cpp:909]: No font with name null_font
+[20:29:44][guigraphics.cpp:909]: No font with name null_font
+[20:30:05][lexer.cpp:277]: File 'common/name_lists/AI.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AI.txt(52)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AI.txt(55)
+[20:30:05][lexer.cpp:277]: File 'common/name_lists/ART1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/ART1.txt(38)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/ART1.txt(41)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/ART1.txt(44)
+[20:30:05][lexer.cpp:277]: File 'common/name_lists/ART2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/ART2.txt(40)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/ART2.txt(43)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/ART2.txt(46)
+[20:30:05][lexer.cpp:277]: File 'common/name_lists/ART3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/ART3.txt(40)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/ART3.txt(43)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/ART3.txt(46)
+[20:30:05][lexer.cpp:277]: File 'common/name_lists/AVI1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/AVI1.txt(39)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AVI1.txt(42)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AVI1.txt(45)
+[20:30:05][lexer.cpp:277]: File 'common/name_lists/AVI2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/AVI2.txt(42)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AVI2.txt(45)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AVI2.txt(48)
+[20:30:05][lexer.cpp:277]: File 'common/name_lists/AVI3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/AVI3.txt(41)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AVI3.txt(44)
+[20:30:05][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AVI3.txt(47)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/CHN.txt(98)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/CHN.txt(101)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/CHN.txt(102)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/CHN.txt(104)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/CHNX.txt(59)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/CHNX.txt(62)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/CHNX.txt(63)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/CHNX.txt(65)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/Extradimensional.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Extradimensional.txt(20)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/Extradimensional.txt(23)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/FUN1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/FUN1.txt(39)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/FUN1.txt(42)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/FUN1.txt(45)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/FUN2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/FUN2.txt(41)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/FUN2.txt(44)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/FUN2.txt(47)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/FUN3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/FUN3.txt(41)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/FUN3.txt(44)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/FUN3.txt(47)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/HIVE.txt(42)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HIVE.txt(45)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HIVE.txt(48)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/HUM1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM1.txt(42)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM1.txt(45)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/HUM2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM2.txt(42)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM2.txt(45)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/HUM3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM3.txt(44)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM3.txt(47)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/HUM4.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM4.txt(44)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM4.txt(47)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/Human.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Human.txt(43)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/Human.txt(46)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/Human2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Human2.txt(43)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/Human2.txt(46)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/MAM1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MAM1.txt(42)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MAM1.txt(45)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/MAM2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MAM2.txt(41)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MAM2.txt(44)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/MAM3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MAM3.txt(43)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MAM3.txt(46)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/MOL1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MOL1.txt(40)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MOL1.txt(43)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/MOL2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MOL2.txt(41)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MOL2.txt(44)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/MOL3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MOL3.txt(41)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MOL3.txt(44)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/PLANT.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT.txt(44)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT.txt(45)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT.txt(47)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/PLANT2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT2.txt(44)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT2.txt(45)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT2.txt(47)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/PLANT3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT3.txt(44)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT3.txt(45)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT3.txt(47)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/PLANT4.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT4.txt(45)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT4.txt(46)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT4.txt(48)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/PRT1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PRT1.txt(47)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/PRT2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PRT2.txt(48)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/Prethoryn.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Prethoryn.txt(41)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/REP1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/REP1.txt(43)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/REP1.txt(46)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/REP2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/REP2.txt(43)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/REP2.txt(46)
+[20:30:06][lexer.cpp:277]: File 'common/name_lists/REP3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/REP3.txt(44)
+[20:30:06][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/REP3.txt(47)
+[20:30:06][event_chain.cpp:106]: Event chain "tutorial_16_chain" is missing localization for "tutorial_16_chain_desc".
+[20:30:08][localization_util.cpp:24]: Missing localization key [casus_belli_cb_sublimation] 
+[20:30:08][building_type.cpp:533]: Missing building Localization Key: building_hab_stronghold
+[20:30:08][building_type.cpp:533]: Missing building Localization Key: building_hab_stronghold_desc
+[20:30:10][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[20:30:10][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[20:30:10][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[22:04:42][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[22:04:42][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[22:04:42][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[22:22:36][effect_impl.cpp:3618]: invalid design for create_ship effect.  file: events/nomad_events.txt line: 907
+[22:22:36][effect_impl.cpp:3618]: invalid design for create_ship effect.  file: events/nomad_events.txt line: 911
+[22:22:36][effect_impl.cpp:3618]: invalid design for create_ship effect.  file: events/nomad_events.txt line: 915
+[22:22:36][effect_impl.cpp:3618]: invalid design for create_ship effect.  file: events/nomad_events.txt line: 919
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[22:26:12][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[22:36:09][effect_impl.cpp:226]: Script Error: Invalid context switch[leader], file: events/nomad_events.txt line: 1206, Scope: 
+type=fleet
+id=1255
+random={ 145877772 145877772 }
+root={
+	type=country
+	id=5
+	random={ 110764945 110764945 }
+	from={
+		type=country
+		id=5
+		random={ 1071311268 2369021246 }
+		from={
+			type=country
+			id=117440550
+			random={ 145877772 145877772 }
+			from={
+				type=fleet
+				id=1255
+				random={ 1708739604 1708739604 }
+				from={
+					type=galactic_object
+					id=729
+					random={ 463643804 463643804 }
+					saved_event_target={
+						type=fleet
+						id=1255
+						name="nomad_fleet"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="nomad_owner"
+					}
+					saved_event_target={
+						type=country
+						id=5
+						name="nomad_contact_country"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="contact_empire"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="contact_speaker"
+					}
+				}
+			}
+		}
+	}
+}
+from={
+	type=fleet
+	id=1255
+	random={ 1708739604 1708739604 }
+	from={
+		type=galactic_object
+		id=729
+		random={ 463643804 463643804 }
+		saved_event_target={
+			type=fleet
+			id=1255
+			name="nomad_fleet"
+		}
+		saved_event_target={
+			type=country
+			id=117440550
+			name="nomad_owner"
+		}
+		saved_event_target={
+			type=country
+			id=5
+			name="nomad_contact_country"
+		}
+		saved_event_target={
+			type=country
+			id=117440550
+			name="contact_empire"
+		}
+		saved_event_target={
+			type=country
+			id=117440550
+			name="contact_speaker"
+		}
+	}
+}
+prev={
+	type=ship
+	id=2853
+	random={ 145877772 145877772 }
+	root={
+		type=country
+		id=5
+		random={ 110764945 110764945 }
+		from={
+			type=country
+			id=5
+			random={ 1071311268 2369021246 }
+			from={
+				type=country
+				id=117440550
+				random={ 145877772 145877772 }
+				from={
+					type=fleet
+					id=1255
+					random={ 1708739604 1708739604 }
+					from={
+						type=galactic_object
+						id=729
+						random={ 463643804 463643804 }
+						saved_event_target={
+							type=fleet
+							id=1255
+							name="nomad_fleet"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="nomad_owner"
+						}
+						saved_event_target={
+							type=country
+							id=5
+							name="nomad_contact_country"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="contact_empire"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="contact_speaker"
+						}
+					}
+				}
+			}
+		}
+	}
+	from={
+		type=fleet
+		id=1255
+		random={ 1708739604 1708739604 }
+		from={
+			type=galactic_object
+			id=729
+			random={ 463643804 463643804 }
+			saved_event_target={
+				type=fleet
+				id=1255
+				name="nomad_fleet"
+			}
+			saved_event_target={
+				type=country
+				id=117440550
+				name="nomad_owner"
+			}
+			saved_event_target={
+				type=country
+				id=5
+				name="nomad_contact_country"
+			}
+			saved_event_target={
+				type=country
+				id=117440550
+				name="contact_empire"
+			}
+			saved_event_target={
+				type=country
+				id=117440550
+				name="contact_speaker"
+			}
+		}
+	}
+	prev={
+		type=country
+		id=117440550
+		random={ 145877772 4290097638 }
+		root={
+			type=country
+			id=5
+			random={ 110764945 110764945 }
+			from={
+				type=country
+				id=5
+				random={ 1071311268 2369021246 }
+				from={
+					type=country
+					id=117440550
+					random={ 145877772 145877772 }
+					from={
+						type=fleet
+						id=1255
+						random={ 1708739604 1708739604 }
+						from={
+							type=galactic_object
+							id=729
+							random={ 463643804 463643804 }
+							saved_event_target={
+								type=fleet
+								id=1255
+								name="nomad_fleet"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="nomad_owner"
+							}
+							saved_event_target={
+								type=country
+								id=5
+								name="nomad_contact_country"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="contact_empire"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="contact_speaker"
+							}
+						}
+					}
+				}
+			}
+		}
+		from={
+			type=fleet
+			id=1255
+			random={ 1708739604 1708739604 }
+			from={
+				type=galactic_object
+				id=729
+				random={ 463643804 463643804 }
+				saved_event_target={
+					type=fleet
+					id=1255
+					name="nomad_fleet"
+				}
+				saved_event_target={
+					type=country
+					id=117440550
+					name="nomad_owner"
+				}
+				saved_event_target={
+					type=country
+					id=5
+					name="nomad_contact_country"
+				}
+				saved_event_target={
+					type=country
+					id=117440550
+					name="contact_empire"
+				}
+				saved_event_target={
+					type=country
+					id=117440550
+					name="contact_speaker"
+				}
+			}
+		}
+		prev={
+			type=country
+			id=5
+			random={ 110764945 110764945 }
+			from={
+				type=country
+				id=5
+				random={ 1071311268 2369021246 }
+				from={
+					type=country
+					id=117440550
+					random={ 145877772 145877772 }
+					from={
+						type=fleet
+						id=1255
+						random={ 1708739604 1708739604 }
+						from={
+							type=galactic_object
+							id=729
+							random={ 463643804 463643804 }
+							saved_event_target={
+								type=fleet
+								id=1255
+								name="nomad_fleet"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="nomad_owner"
+							}
+							saved_event_target={
+								type=country
+								id=5
+								name="nomad_contact_country"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="contact_empire"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="contact_speaker"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+[22:36:14][effect_impl.cpp:226]: Script Error: Invalid context switch[leader], file: events/nomad_events.txt line: 2992, Scope: 
+type=fleet
+id=1255
+random={ 553860158 553860158 }
+root={
+	type=country
+	id=5
+	random={ 553860158 553860158 }
+	from={
+		type=fleet
+		id=1255
+		random={ 807164408 807164408 }
+		from={
+			type=fleet
+			id=1255
+			random={ 145877772 3761782672 }
+			from={
+				type=fleet
+				id=1255
+				random={ 1708739604 291724078 }
+				from={
+					type=galactic_object
+					id=729
+					random={ 463643804 463643804 }
+					saved_event_target={
+						type=fleet
+						id=1255
+						name="nomad_fleet"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="nomad_owner"
+					}
+					saved_event_target={
+						type=country
+						id=5
+						name="nomad_contact_country"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="contact_empire"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="contact_speaker"
+					}
+					saved_event_target={
+						type=country
+						id=5
+						name="space_owner_target"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="nomad_country"
+					}
+				}
+			}
+		}
+	}
+}
+from={
+	type=fleet
+	id=1255
+	random={ 807164408 807164408 }
+	from={
+		type=fleet
+		id=1255
+		random={ 145877772 3761782672 }
+		from={
+			type=fleet
+			id=1255
+			random={ 1708739604 291724078 }
+			from={
+				type=galactic_object
+				id=729
+				random={ 463643804 463643804 }
+				saved_event_target={
+					type=fleet
+					id=1255
+					name="nomad_fleet"
+				}
+				saved_event_target={
+					type=country
+					id=117440550
+					name="nomad_owner"
+				}
+				saved_event_target={
+					type=country
+					id=5
+					name="nomad_contact_country"
+				}
+				saved_event_target={
+					type=country
+					id=117440550
+					name="contact_empire"
+				}
+				saved_event_target={
+					type=country
+					id=117440550
+					name="contact_speaker"
+				}
+				saved_event_target={
+					type=country
+					id=5
+					name="space_owner_target"
+				}
+				saved_event_target={
+					type=country
+					id=117440550
+					name="nomad_country"
+				}
+			}
+		}
+	}
+}
+prev={
+	type=ship
+	id=16780362
+	random={ 553860158 553860158 }
+	root={
+		type=country
+		id=5
+		random={ 553860158 553860158 }
+		from={
+			type=fleet
+			id=1255
+			random={ 807164408 807164408 }
+			from={
+				type=fleet
+				id=1255
+				random={ 145877772 3761782672 }
+				from={
+					type=fleet
+					id=1255
+					random={ 1708739604 291724078 }
+					from={
+						type=galactic_object
+						id=729
+						random={ 463643804 463643804 }
+						saved_event_target={
+							type=fleet
+							id=1255
+							name="nomad_fleet"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="nomad_owner"
+						}
+						saved_event_target={
+							type=country
+							id=5
+							name="nomad_contact_country"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="contact_empire"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="contact_speaker"
+						}
+						saved_event_target={
+							type=country
+							id=5
+							name="space_owner_target"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="nomad_country"
+						}
+					}
+				}
+			}
+		}
+	}
+	from={
+		type=fleet
+		id=1255
+		random={ 807164408 807164408 }
+		from={
+			type=fleet
+			id=1255
+			random={ 145877772 3761782672 }
+			from={
+				type=fleet
+				id=1255
+				random={ 1708739604 291724078 }
+				from={
+					type=galactic_object
+					id=729
+					random={ 463643804 463643804 }
+					saved_event_target={
+						type=fleet
+						id=1255
+						name="nomad_fleet"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="nomad_owner"
+					}
+					saved_event_target={
+						type=country
+						id=5
+						name="nomad_contact_country"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="contact_empire"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="contact_speaker"
+					}
+					saved_event_target={
+						type=country
+						id=5
+						name="space_owner_target"
+					}
+					saved_event_target={
+						type=country
+						id=117440550
+						name="nomad_country"
+					}
+				}
+			}
+		}
+	}
+	prev={
+		type=country
+		id=117440550
+		random={ 553860158 3536182440 }
+		root={
+			type=country
+			id=5
+			random={ 553860158 553860158 }
+			from={
+				type=fleet
+				id=1255
+				random={ 807164408 807164408 }
+				from={
+					type=fleet
+					id=1255
+					random={ 145877772 3761782672 }
+					from={
+						type=fleet
+						id=1255
+						random={ 1708739604 291724078 }
+						from={
+							type=galactic_object
+							id=729
+							random={ 463643804 463643804 }
+							saved_event_target={
+								type=fleet
+								id=1255
+								name="nomad_fleet"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="nomad_owner"
+							}
+							saved_event_target={
+								type=country
+								id=5
+								name="nomad_contact_country"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="contact_empire"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="contact_speaker"
+							}
+							saved_event_target={
+								type=country
+								id=5
+								name="space_owner_target"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="nomad_country"
+							}
+						}
+					}
+				}
+			}
+		}
+		from={
+			type=fleet
+			id=1255
+			random={ 807164408 807164408 }
+			from={
+				type=fleet
+				id=1255
+				random={ 145877772 3761782672 }
+				from={
+					type=fleet
+					id=1255
+					random={ 1708739604 291724078 }
+					from={
+						type=galactic_object
+						id=729
+						random={ 463643804 463643804 }
+						saved_event_target={
+							type=fleet
+							id=1255
+							name="nomad_fleet"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="nomad_owner"
+						}
+						saved_event_target={
+							type=country
+							id=5
+							name="nomad_contact_country"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="contact_empire"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="contact_speaker"
+						}
+						saved_event_target={
+							type=country
+							id=5
+							name="space_owner_target"
+						}
+						saved_event_target={
+							type=country
+							id=117440550
+							name="nomad_country"
+						}
+					}
+				}
+			}
+		}
+		prev={
+			type=country
+			id=5
+			random={ 553860158 553860158 }
+			from={
+				type=fleet
+				id=1255
+				random={ 807164408 807164408 }
+				from={
+					type=fleet
+					id=1255
+					random={ 145877772 3761782672 }
+					from={
+						type=fleet
+						id=1255
+						random={ 1708739604 291724078 }
+						from={
+							type=galactic_object
+							id=729
+							random={ 463643804 463643804 }
+							saved_event_target={
+								type=fleet
+								id=1255
+								name="nomad_fleet"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="nomad_owner"
+							}
+							saved_event_target={
+								type=country
+								id=5
+								name="nomad_contact_country"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="contact_empire"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="contact_speaker"
+							}
+							saved_event_target={
+								type=country
+								id=5
+								name="space_owner_target"
+							}
+							saved_event_target={
+								type=country
+								id=117440550
+								name="nomad_country"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[22:47:09][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[23:10:42][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[23:23:45][pdx_entity.cpp:1164]: mammalian_01_starbase_outpost_entity has no attach point named part1
+[23:24:47][pdx_entity.cpp:1164]: mammalian_01_starbase_outpost_entity has no attach point named part1
+[23:24:50][pdx_entity.cpp:1164]: mammalian_01_starbase_outpost_entity has no attach point named part1
+[23:24:53][pdx_entity.cpp:1164]: mammalian_01_starbase_outpost_entity has no attach point named part1
+[23:25:33][pdx_entity.cpp:1164]: mammalian_01_starbase_outpost_entity has no attach point named part1
+[23:25:44][pdx_entity.cpp:1164]: mammalian_01_starbase_outpost_entity has no attach point named part1
+[23:29:07][trigger.cpp:354]: Script Error, Checking trigger against an unsupported scope!
+Event: guardian.2011
+Location:  file: events/guardian_events.txt line: 13176
+Trigger Type: any_planet
+Scope:type=none
+id=0
+random={ 784559969 784559969 }
+[23:29:07][trigger.cpp:354]: Script Error, Checking trigger against an unsupported scope!
+Event: guardian.20101
+Location:  file: events/guardian_events.txt line: 13115
+Trigger Type: any_planet
+Scope:type=none
+id=0
+random={ 784559969 784559969 }
+[23:31:34][pdx_entity.cpp:1164]: mammalian_01_starbase_outpost_entity has no attach point named part1
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 24, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 1333536021 1333536021 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 98, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 328843930 328843930 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 160, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 370898600 370898600 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 232, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 2040777210 2040777210 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 303, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 696538773 696538773 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 374, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 925364113 925364113 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 452, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 219606152 219606152 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 523, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 1168726241 1168726241 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 603, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 762473199 762473199 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 676, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 1787297094 1787297094 }
+
+[23:37:47][trigger_impl.cpp:794]: Script Error: Invalid context switch[controller], file: events/unrest_events.txt line: 747, Scope: 
+
+[23:37:47][trigger_impl.cpp:795]: type=planet
+id=6548
+random={ 1878152601 1878152601 }
+
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[23:40:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[23:48:36][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[23:48:41][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171

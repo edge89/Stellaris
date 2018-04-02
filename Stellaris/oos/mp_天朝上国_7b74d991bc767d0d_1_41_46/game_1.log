@@ -1,0 +1,30 @@
+[19:14:26][game_application.cpp:283]: Game Version: Cherryh v2.0.2
+[19:14:26][defines.cpp:124]: 1300 defines loaded
+[19:17:05][ingamelobby.cpp:452]: HOTJOIN: Accepting hotjoin from 哈库拉玛塔塔
+[19:17:05][ingamelobby.cpp:544]: Trying to reinit lobbyhumans
+[19:17:05][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[19:17:05][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[19:17:06][ingamelobby.cpp:544]: Trying to reinit lobbyhumans
+[19:17:06][ingamelobby.cpp:728]: HOTJOIN: Creating savegame for hotjoining player.
+[19:17:06][ingamelobby.cpp:780]: nNumOfHotjoins = 1
+[19:17:06][ingamelobby.cpp:781]: Working with 哈库拉玛塔塔
+[19:17:06][ingamelobby.cpp:791]: Savegame sent to hotjoining player.
+[19:17:46][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[19:17:53][ingamelobby.cpp:544]: Trying to reinit lobbyhumans
+[19:17:53][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[19:17:53][ingamelobby.cpp:389]: PlayerArrived3: Local player is 背影 session id is 1
+[19:17:53][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[21:53:11][ingamelobby.cpp:452]: HOTJOIN: Accepting hotjoin from 哈库拉玛塔塔
+[21:53:11][ingamelobby.cpp:544]: Trying to reinit lobbyhumans
+[21:53:11][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[21:53:11][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[21:53:12][ingamelobby.cpp:544]: Trying to reinit lobbyhumans
+[21:53:12][ingamelobby.cpp:728]: HOTJOIN: Creating savegame for hotjoining player.
+[21:53:13][ingamelobby.cpp:780]: nNumOfHotjoins = 1
+[21:53:13][ingamelobby.cpp:781]: Working with 哈库拉玛塔塔
+[21:53:13][ingamelobby.cpp:791]: Savegame sent to hotjoining player.
+[21:53:51][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[21:53:56][ingamelobby.cpp:544]: Trying to reinit lobbyhumans
+[21:53:56][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[21:53:56][ingamelobby.cpp:389]: PlayerArrived3: Local player is 背影 session id is 1
+[21:53:56][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1

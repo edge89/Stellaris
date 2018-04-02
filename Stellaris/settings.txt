@@ -1,0 +1,72 @@
+force_pow2_textures=no
+language="l_english"
+graphics={
+	size={
+		x=1920
+		y=1080
+	}
+
+	min_gui={
+		x=1280
+		y=720
+	}
+
+	gui_scale=1.000000
+	gui_safe_ratio=1.000000
+	refreshRate=60
+	fullScreen=no
+	borderless=yes
+	display_index=0
+	shadowSize=2048
+	multi_sampling=4
+	multi_sampling_quality=0
+	maxanisotropy=16
+	gamma=50.000000
+	vsync=yes
+}
+sound_fx_volume=50.000000
+music_volume=50.000000
+scroll_speed=50.000000
+camera_rotation_speed=50.000000
+zoom_speed=50.000000
+mouse_speed=50.000000
+soundgroup="l_english"
+master_volume=100.000000
+ambient_volume=50.000000
+dev_master_volume=75.000000
+input_type=0
+voice_volume=50.000000
+camera_look_sensitivity=1.000000
+camera_speed=50.000000
+name="背影"
+last_mods={
+	"mod/ugc_1230096820.mod"
+	"mod/ugc_1313533917.mod"
+	"mod/ugc_734129025.mod"
+	"mod/ugc_832446933.mod"
+}
+autosave=4
+tutorial=1
+gfx_quality=2
+bloom={
+	quality=2
+	lens_flare=yes
+}
+mp_max_ticks_ahead=30
+mapmode_unions=no
+galaxy_config_sp={
+	template="huge"
+	crises=1.250
+	technology=0.750
+	clustered=no
+}
+galaxy_config_mp={
+	template="huge"
+	shape=spiral_2
+	num_empires=10
+	crises=1.000
+	technology=0.750
+	end_game_start=300
+	random_fallen_empires=yes
+	player_locations=close
+}

@@ -1,0 +1,515 @@
+[21:36:14][lexer.cpp:277]: File 'mod/ugc_734129025.mod' should be in utf8-bom encoding (will try to use it anyways)
+[21:36:14][lexer.cpp:277]: File 'mod/ugc_832446933.mod' should be in utf8-bom encoding (will try to use it anyways)
+[21:36:41][localization_reader.cpp:199]: Expected quotation mark (") at line 33 and column 45 in localisation/french/apocalypse_l_french.yml
+[21:36:41][localization_reader.cpp:223]: Expected quotation mark (") at end of line 275 in localisation/french/horizonsignal_l_french.yml
+[21:36:41][localization_reader.cpp:254]: Illegal break character (utf32=20234) at line 24 and column 136 in localisation/french/prescripted_l_french.yml
+[21:36:41][localization_reader.cpp:254]: Illegal break character (utf32=20687) at line 328 and column 63 in localisation/french/tutorial_l_french.yml
+[21:36:41][localization_reader.cpp:199]: Expected quotation mark (") at line 383 and column 27 in localisation/french/tutorial_l_french.yml
+[21:37:29][guigraphics.cpp:909]: No font with name null_font
+[21:37:29][guigraphics.cpp:909]: No font with name null_font
+[21:37:29][guigraphics.cpp:909]: No font with name null_font
+[21:37:29][guigraphics.cpp:909]: No font with name null_font
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/AI.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AI.txt(52)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AI.txt(55)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/ART1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/ART1.txt(38)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/ART1.txt(41)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/ART1.txt(44)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/ART2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/ART2.txt(40)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/ART2.txt(43)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/ART2.txt(46)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/ART3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/ART3.txt(40)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/ART3.txt(43)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/ART3.txt(46)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/AVI1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/AVI1.txt(39)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AVI1.txt(42)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AVI1.txt(45)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/AVI2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/AVI2.txt(42)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AVI2.txt(45)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AVI2.txt(48)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/AVI3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/AVI3.txt(41)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AVI3.txt(44)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AVI3.txt(47)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/CHN.txt(98)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/CHN.txt(101)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/CHN.txt(102)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/CHN.txt(104)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/CHNX.txt(59)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/CHNX.txt(62)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/CHNX.txt(63)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/CHNX.txt(65)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/Extradimensional.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Extradimensional.txt(20)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/Extradimensional.txt(23)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/FUN1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/FUN1.txt(39)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/FUN1.txt(42)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/FUN1.txt(45)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/FUN2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/FUN2.txt(41)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/FUN2.txt(44)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/FUN2.txt(47)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/FUN3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/FUN3.txt(41)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/FUN3.txt(44)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/FUN3.txt(47)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/HIVE.txt(42)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HIVE.txt(45)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HIVE.txt(48)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/HUM1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM1.txt(42)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM1.txt(45)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/HUM2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM2.txt(42)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM2.txt(45)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/HUM3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM3.txt(44)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM3.txt(47)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/HUM4.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM4.txt(44)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM4.txt(47)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/Human.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Human.txt(43)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/Human.txt(46)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/Human2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Human2.txt(43)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/Human2.txt(46)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/MAM1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MAM1.txt(42)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MAM1.txt(45)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/MAM2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MAM2.txt(41)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MAM2.txt(44)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/MAM3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MAM3.txt(43)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MAM3.txt(46)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/MOL1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MOL1.txt(40)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MOL1.txt(43)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/MOL2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MOL2.txt(41)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MOL2.txt(44)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/MOL3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MOL3.txt(41)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MOL3.txt(44)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/PLANT.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT.txt(44)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT.txt(45)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT.txt(47)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/PLANT2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT2.txt(44)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT2.txt(45)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT2.txt(47)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/PLANT3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT3.txt(44)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT3.txt(45)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT3.txt(47)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/PLANT4.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT4.txt(45)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT4.txt(46)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT4.txt(48)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/PRT1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PRT1.txt(47)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/PRT2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PRT2.txt(48)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/Prethoryn.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Prethoryn.txt(41)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/REP1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/REP1.txt(43)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/REP1.txt(46)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/REP2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/REP2.txt(43)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/REP2.txt(46)
+[21:37:53][lexer.cpp:277]: File 'common/name_lists/REP3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/REP3.txt(44)
+[21:37:53][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/REP3.txt(47)
+[21:37:53][event_chain.cpp:106]: Event chain "tutorial_16_chain" is missing localization for "tutorial_16_chain_desc".
+[21:37:58][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[21:37:58][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[21:37:58][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[21:38:18][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[21:38:18][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[21:38:18][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[21:39:07][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[21:45:24][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[21:48:21][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[21:51:29][bitmapfont.cpp:2827]: Could not find coloring for character ''
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[21:58:55][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[22:09:50][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[22:09:50][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[22:09:50][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[22:10:40][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[22:10:40][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[22:10:40][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[22:17:44][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[22:40:05][gamestate.cpp:2313]: Out of sync! Dumping checksums
+[22:40:05][gamestate.cpp:2340]:                         RANDOM_COUNT: [67703130 - 67703130]
+[22:40:05][gamestate.cpp:2340]:                          RANDOM_SEED: [531208234 - 531208234]
+[22:40:05][gamestate.cpp:2340]:                    NUM_OWNED_PLANETS: [44 - 44]
+[22:40:05][gamestate.cpp:2340]:                          BUILD_QUEUE: [0 - 0]
+[22:40:05][gamestate.cpp:2340]:                           NUM_FLEETS: [802 - 802]
+[22:40:05][gamestate.cpp:2340]:                  NUM_FLEET_TEMPLATES: [116 - 116]
+[22:40:05][gamestate.cpp:2340]:                            NUM_SHIPS: [1940 - 1940]
+[22:40:05][gamestate.cpp:2340]:                        NUM_COUNTRIES: [33 - 33]
+[22:40:05][gamestate.cpp:2340]:                          NUM_LEADERS: [247 - 247]
+[22:40:05][gamestate.cpp:2340]:                  NUM_GALACTICOBJECTS: [594 - 594]
+[22:40:05][gamestate.cpp:2340]:                    NUM_GROUNDCOMBATS: [0 - 0]
+[22:40:05][gamestate.cpp:2340]:                           NUM_ARMIES: [183 - 183]
+[22:40:05][gamestate.cpp:2340]:                          NUM_PLANETS: [5621 - 5621]
+[22:40:05][gamestate.cpp:2340]:                             NUM_POPS: [359 - 359]
+[22:40:05][gamestate.cpp:2340]:                             NUM_WARS: [0 - 0]
+[22:40:05][gamestate.cpp:2340]:                        NUM_ALLIANCES: [0 - 0]
+[22:40:05][gamestate.cpp:2340]:                           NUM_DEBRIS: [5 - 5]
+[22:40:05][gamestate.cpp:2340]:                            NUM_TRUCE: [0 - 0]
+[22:40:05][gamestate.cpp:2340]:                        NUM_TRADEDEAL: [4 - 4]
+[22:40:05][gamestate.cpp:2340]:                      NUM_OPEN_EVENTS: [1 - 1]
+[22:40:05][gamestate.cpp:2340]:                          NUM_SPECIES: [29 - 29]
+[22:40:05][gamestate.cpp:2340]:                         NUM_MISSILES: [1 - 1]
+[22:40:05][gamestate.cpp:2340]:                     NUM_STRIKE_CRAFT: [0 - 0]
+[22:40:05][gamestate.cpp:2340]:                  NUM_AMBIENT_OBJECTS: [1 - 1]
+[22:40:05][gamestate.cpp:2340]:                 LAST_DIPLO_ACTION_ID: [50 - 50]
+[22:40:05][gamestate.cpp:2340]:                 LAST_NOTIFICATION_ID: [912 - 912]
+[22:40:05][gamestate.cpp:2340]:                        LAST_EVENT_ID: [222 - 222]
+[22:40:05][gamestate.cpp:2340]:                         SHIP_DESIGNS: [1003 - 1003]
+[22:40:05][gamestate.cpp:2340]:                         POP_FACTIONS: [15 - 15]
+[22:40:05][gamestate.cpp:2340]:                       MEGASTRUCTURES: [3 - 3]
+[22:40:05][gamestate.cpp:2340]:                    COUNTRY_MODIFIERS: [1131419692 - 1131419692]
+[22:40:05][gamestate.cpp:2340]:                        POP_MODIFIERS: [2373672 - 2373822] <<< Mismatch!
+[22:40:05][gamestate.cpp:2340]:                     PLANET_MODIFIERS: [13205460 - 13205460]
+[22:40:05][gamestate.cpp:2340]:                      FLEET_MODIFIERS: [536570018 - 536570018]
+[22:40:05][gamestate.cpp:2340]:                       SHIP_MODIFIERS: [1921740870 - 1921740870]
+[22:40:05][gamestate.cpp:2340]:                       COUNTRY_ENERGY: [63032792 - 63032792]
+[22:40:05][gamestate.cpp:2340]:                    COUNTRY_INFLUENCE: [5044546 - 5044546]
+[22:40:05][gamestate.cpp:2340]:                           POP_GROWTH: [707990 - 707990]
+[22:40:05][gamestate.cpp:2340]:                    NEXT_WEAPON_INDEX: [7625 - 7625]
+[22:40:05][gamestate.cpp:2340]:           FLEET_FTL_JUMP_COORDINATES: [104687 - 104687]
+[22:40:05][gamestate.cpp:2340]:                  CS_FLEET_COORDINATE: [332858 - 332858]
+[22:40:05][gamestate.cpp:2340]: CS_FLEET_TIME_SINCE_LAST_PATH_UPDATE: [1241 - 1241]
+[22:40:05][gamestate.cpp:2340]:                       CS_FLEET_STATE: [1624 - 1624]
+[22:40:05][gamestate.cpp:2340]:                  CS_FLEET_FTL_WINDUP: [531 - 531]
+[22:40:05][gamestate.cpp:2340]:                CS_FLEET_FTL_WINDDOWN: [0 - 0]
+[22:40:05][gamestate.cpp:2340]:                        CS_FLEET_PATH: [4294882526 - 4294882526]
+[22:40:05][gamestate.cpp:2340]:                       CS_FLEET_ORBIT: [4294597480 - 4294597480]
+[22:40:05][gamestate.cpp:2340]:                         CS_STARBASES: [145 - 145]
+[22:48:37][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[22:48:37][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[22:48:37][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[22:52:58][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[22:52:58][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[22:52:58][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[22:54:59][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[22:54:59][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[22:54:59][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[22:55:38][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[22:55:38][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[22:55:38][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[22:58:00][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[22:58:00][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[22:58:00][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[22:59:12][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[22:59:12][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[22:59:12][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[23:02:08][gamestate.cpp:2313]: Out of sync! Dumping checksums
+[23:02:08][gamestate.cpp:2340]:                         RANDOM_COUNT: [1814120 - 1814120]
+[23:02:08][gamestate.cpp:2340]:                          RANDOM_SEED: [2205855181 - 2205855181]
+[23:02:08][gamestate.cpp:2340]:                    NUM_OWNED_PLANETS: [44 - 44]
+[23:02:08][gamestate.cpp:2340]:                          BUILD_QUEUE: [1 - 1]
+[23:02:08][gamestate.cpp:2340]:                           NUM_FLEETS: [810 - 810]
+[23:02:08][gamestate.cpp:2340]:                  NUM_FLEET_TEMPLATES: [115 - 115]
+[23:02:08][gamestate.cpp:2340]:                            NUM_SHIPS: [1957 - 1957]
+[23:02:08][gamestate.cpp:2340]:                        NUM_COUNTRIES: [31 - 31]
+[23:02:08][gamestate.cpp:2340]:                          NUM_LEADERS: [245 - 245]
+[23:02:08][gamestate.cpp:2340]:                  NUM_GALACTICOBJECTS: [594 - 594]
+[23:02:08][gamestate.cpp:2340]:                    NUM_GROUNDCOMBATS: [0 - 0]
+[23:02:08][gamestate.cpp:2340]:                           NUM_ARMIES: [189 - 189]
+[23:02:08][gamestate.cpp:2340]:                          NUM_PLANETS: [5621 - 5621]
+[23:02:08][gamestate.cpp:2340]:                             NUM_POPS: [364 - 364]
+[23:02:08][gamestate.cpp:2340]:                             NUM_WARS: [0 - 0]
+[23:02:08][gamestate.cpp:2340]:                        NUM_ALLIANCES: [0 - 0]
+[23:02:08][gamestate.cpp:2340]:                           NUM_DEBRIS: [4 - 4]
+[23:02:08][gamestate.cpp:2340]:                            NUM_TRUCE: [0 - 0]
+[23:02:08][gamestate.cpp:2340]:                        NUM_TRADEDEAL: [4 - 4]
+[23:02:08][gamestate.cpp:2340]:                      NUM_OPEN_EVENTS: [1 - 1]
+[23:02:08][gamestate.cpp:2340]:                          NUM_SPECIES: [29 - 29]
+[23:02:08][gamestate.cpp:2340]:                         NUM_MISSILES: [0 - 0]
+[23:02:08][gamestate.cpp:2340]:                     NUM_STRIKE_CRAFT: [0 - 0]
+[23:02:08][gamestate.cpp:2340]:                  NUM_AMBIENT_OBJECTS: [1 - 1]
+[23:02:08][gamestate.cpp:2340]:                 LAST_DIPLO_ACTION_ID: [50 - 50]
+[23:02:08][gamestate.cpp:2340]:                 LAST_NOTIFICATION_ID: [937 - 937]
+[23:02:08][gamestate.cpp:2340]:                        LAST_EVENT_ID: [228 - 228]
+[23:02:08][gamestate.cpp:2340]:                         SHIP_DESIGNS: [911 - 911]
+[23:02:08][gamestate.cpp:2340]:                         POP_FACTIONS: [15 - 15]
+[23:02:08][gamestate.cpp:2340]:                       MEGASTRUCTURES: [3 - 3]
+[23:02:08][gamestate.cpp:2340]:                    COUNTRY_MODIFIERS: [936604542 - 936604542]
+[23:02:08][gamestate.cpp:2340]:                        POP_MODIFIERS: [2414730 - 2414880] <<< Mismatch!
+[23:02:08][gamestate.cpp:2340]:                     PLANET_MODIFIERS: [13931410 - 13931410]
+[23:02:08][gamestate.cpp:2340]:                      FLEET_MODIFIERS: [521857158 - 521857158]
+[23:02:08][gamestate.cpp:2340]:                       SHIP_MODIFIERS: [1893372850 - 1893372850]
+[23:02:08][gamestate.cpp:2340]:                       COUNTRY_ENERGY: [63489265 - 63489265]
+[23:02:08][gamestate.cpp:2340]:                    COUNTRY_INFLUENCE: [4785256 - 4785256]
+[23:02:08][gamestate.cpp:2340]:                           POP_GROWTH: [499894 - 499894]
+[23:02:08][gamestate.cpp:2340]:                    NEXT_WEAPON_INDEX: [7887 - 7887]
+[23:02:08][gamestate.cpp:2340]:           FLEET_FTL_JUMP_COORDINATES: [4294515887 - 4294515887]
+[23:02:08][gamestate.cpp:2340]:                  CS_FLEET_COORDINATE: [303062 - 303062]
+[23:02:08][gamestate.cpp:2340]: CS_FLEET_TIME_SINCE_LAST_PATH_UPDATE: [287 - 287]
+[23:02:08][gamestate.cpp:2340]:                       CS_FLEET_STATE: [1638 - 1638]
+[23:02:08][gamestate.cpp:2340]:                  CS_FLEET_FTL_WINDUP: [299 - 299]
+[23:02:08][gamestate.cpp:2340]:                CS_FLEET_FTL_WINDDOWN: [0 - 0]
+[23:02:08][gamestate.cpp:2340]:                        CS_FLEET_PATH: [249163 - 249163]
+[23:02:08][gamestate.cpp:2340]:                       CS_FLEET_ORBIT: [285933 - 285933]
+[23:02:08][gamestate.cpp:2340]:                         CS_STARBASES: [152 - 152]

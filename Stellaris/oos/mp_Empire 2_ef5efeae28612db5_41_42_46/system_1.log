@@ -1,0 +1,272 @@
+[20:27:50][gfx_dx9.cpp:4031]: Loading settings for adapter -1, fullscreen=0, multisample=15
+[20:27:50][gfx_dx9.cpp:4053]: Graphic Adapters: 
+[20:27:50][gfx_dx9.cpp:4061]: 	0: NVIDIA GeForce GTX 1060 6GB
+[20:27:50][gfx_dx9.cpp:4080]: Using Adapter [0] to check for multi-sampling support:
+[20:27:50][gfx_dx9.cpp:4098]: Using Adapter [0]:
+[20:27:50][gfx_dx9.cpp:4104]: Succeeded to create a device [D3DCREATE_HARDWARE_VERTEXPROCESSING].
+[20:27:50][gfx_dx9.cpp:4143]: Graphics device: NVIDIA GeForce GTX 1060 6GB
+[20:27:50][gfx_dx9.cpp:4144]: Graphics driver: nvldumd.dll
+[20:27:50][gfx_dx9.cpp:4145]: Driver version: 8813
+[20:27:50][gfx_dx9.cpp:4160]: 
+
+
+Dumping all gfx info:
+DeviceIdentifier:	{D7B71E3E-5F43-11CF-BF55-8C121BC2DA35}
+VendorId:	4318
+DeviceId:	7171
+SubSysId:	847320162
+Revision:	161
+DriverVersion.HighPart:	1507349
+DriverVersion.LowPart:	860781
+
+
+[20:27:50][gfx_dx9.cpp:4180]: Instancing supported.
+[20:27:50][gfx_dx9.cpp:4229]: Video memory amount: 4095MB
+[20:27:50][gfx_dx9.cpp:4230]: MaxSimultaneousTextures: 8
+[20:27:50][gfx_dx9.cpp:4231]: MaxVertexBlendMatrices: 4
+[20:27:50][gfx_dx9.cpp:4232]: MaxVertexBlendMatrixIndex: 8
+[20:27:50][gfx_dx9.cpp:4233]: MaxSimultaneousTextures: 8
+[20:27:50][gfx_dx9.cpp:4234]: MaxTextureBlendStages: 8
+[20:27:50][gfx_dx9.cpp:4235]: MaxTextureWidth: 16384
+[20:27:50][gfx_dx9.cpp:4236]: MaxTextureHeight: 16384
+[20:27:50][gfx_dx9.cpp:4239]: Vertex Shader version: 3.0
+[20:27:50][gfx_dx9.cpp:4244]: Pixel Shader version: 3.0
+[20:27:50][graphicssettings.cpp:154]: 	2 samples supported.
+[20:27:50][graphicssettings.cpp:154]: 	4 samples supported.
+[20:27:50][graphicssettings.cpp:154]: 	8 samples supported.
+[20:27:50][graphicssettings.cpp:185]: Support for Anisotropic filtering found.
+[20:27:50][graphicssettings.cpp:188]: 	Max Anisotropic filtering supported: 16
+[20:27:50][graphicssettings.cpp:189]: 	Anisotropic filtering set to: 16
+[20:27:50][pdx_audio_sdl.cpp:108]: [0] Audio device: 扬声器 (Realtek High Definition Audio)
+[20:27:50][pdx_audio_sdl.cpp:108]: [1] Audio device: Realtek Digital Output (Realtek High Definition Audio)
+[20:27:50][pdx_audio_sdl.cpp:114]: [0] Audio driver: directsound
+[20:27:50][pdx_audio_sdl.cpp:114]: [1] Audio driver: winmm
+[20:27:50][pdx_audio_sdl.cpp:114]: [2] Audio driver: disk
+[20:27:50][pdx_audio_sdl.cpp:114]: [3] Audio driver: dummy
+[20:27:50][pdx_audio_sdl.cpp:139]: Current audio driver: directsound
+[20:27:50][pdx_audio_sdl.cpp:146]: 
+	Frequency: 44100
+	Format: 32784
+	Channels: 2
+	Samples: 1024
+[20:27:50][gfx_dx9.cpp:4031]: Loading settings for adapter -1, fullscreen=0, multisample=15
+[20:27:50][gfx_dx9.cpp:4053]: Graphic Adapters: 
+[20:27:50][gfx_dx9.cpp:4061]: 	0: NVIDIA GeForce GTX 1060 6GB
+[20:27:50][gfx_dx9.cpp:4080]: Using Adapter [0] to check for multi-sampling support:
+[20:27:50][gfx_dx9.cpp:4098]: Using Adapter [0]:
+[20:27:50][gfx_dx9.cpp:4104]: Succeeded to create a device [D3DCREATE_HARDWARE_VERTEXPROCESSING].
+[20:27:50][gfx_dx9.cpp:4143]: Graphics device: NVIDIA GeForce GTX 1060 6GB
+[20:27:50][gfx_dx9.cpp:4144]: Graphics driver: nvldumd.dll
+[20:27:50][gfx_dx9.cpp:4145]: Driver version: 8813
+[20:27:50][gfx_dx9.cpp:4160]: 
+
+
+Dumping all gfx info:
+DeviceIdentifier:	{D7B71E3E-5F43-11CF-BF55-8C121BC2DA35}
+VendorId:	4318
+DeviceId:	7171
+SubSysId:	847320162
+Revision:	161
+DriverVersion.HighPart:	1507349
+DriverVersion.LowPart:	860781
+
+
+[20:27:50][gfx_dx9.cpp:4180]: Instancing supported.
+[20:27:50][gfx_dx9.cpp:4229]: Video memory amount: 4095MB
+[20:27:50][gfx_dx9.cpp:4230]: MaxSimultaneousTextures: 8
+[20:27:50][gfx_dx9.cpp:4231]: MaxVertexBlendMatrices: 4
+[20:27:50][gfx_dx9.cpp:4232]: MaxVertexBlendMatrixIndex: 8
+[20:27:50][gfx_dx9.cpp:4233]: MaxSimultaneousTextures: 8
+[20:27:50][gfx_dx9.cpp:4234]: MaxTextureBlendStages: 8
+[20:27:50][gfx_dx9.cpp:4235]: MaxTextureWidth: 16384
+[20:27:50][gfx_dx9.cpp:4236]: MaxTextureHeight: 16384
+[20:27:50][gfx_dx9.cpp:4239]: Vertex Shader version: 3.0
+[20:27:50][gfx_dx9.cpp:4244]: Pixel Shader version: 3.0
+[20:27:50][graphicssettings.cpp:154]: 	2 samples supported.
+[20:27:50][graphicssettings.cpp:154]: 	4 samples supported.
+[20:27:50][graphicssettings.cpp:154]: 	8 samples supported.
+[20:27:50][graphicssettings.cpp:185]: Support for Anisotropic filtering found.
+[20:27:50][graphicssettings.cpp:188]: 	Max Anisotropic filtering supported: 16
+[20:27:50][graphicssettings.cpp:189]: 	Anisotropic filtering set to: 16
+[20:27:50][graphicssettings.cpp:730]: Not using multisampling.
+[20:27:50][graphics.cpp:819]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=no
+	Resolution=1080x600
+[20:27:51][graphicssettings.cpp:688]: Usable res: 640 480 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 640 480 72
+[20:27:51][graphicssettings.cpp:688]: Usable res: 640 480 75
+[20:27:51][graphicssettings.cpp:688]: Usable res: 720 480 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 720 576 50
+[20:27:51][graphicssettings.cpp:688]: Usable res: 800 600 56
+[20:27:51][graphicssettings.cpp:688]: Usable res: 800 600 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 800 600 72
+[20:27:51][graphicssettings.cpp:688]: Usable res: 800 600 75
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1024 768 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1024 768 70
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1024 768 75
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1152 864 75
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1176 664 50
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1176 664 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1280 720 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1280 720 50
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1280 768 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1280 800 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1280 960 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1280 960 75
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1280 1024 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1280 1024 75
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1360 768 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1366 768 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1600 900 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1600 1024 59
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1680 1050 59
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1768 992 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1768 992 50
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1920 1080 60
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1920 1080 50
+[20:27:51][graphicssettings.cpp:688]: Usable res: 1440 900 60
+[20:27:51][graphics.cpp:854]: Done creating device.
+[20:27:53][graphicssettings.cpp:688]: Usable res: 640 480 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 640 480 72
+[20:27:53][graphicssettings.cpp:688]: Usable res: 640 480 75
+[20:27:53][graphicssettings.cpp:688]: Usable res: 720 480 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 720 576 50
+[20:27:53][graphicssettings.cpp:688]: Usable res: 800 600 56
+[20:27:53][graphicssettings.cpp:688]: Usable res: 800 600 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 800 600 72
+[20:27:53][graphicssettings.cpp:688]: Usable res: 800 600 75
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1024 768 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1024 768 70
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1024 768 75
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1152 864 75
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1176 664 50
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1176 664 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1280 720 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1280 720 50
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1280 768 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1280 800 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1280 960 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1280 960 75
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1280 1024 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1280 1024 75
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1360 768 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1366 768 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1600 900 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1600 1024 59
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1680 1050 59
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1768 992 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1768 992 50
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1920 1080 60
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1920 1080 50
+[20:27:53][graphicssettings.cpp:688]: Usable res: 1440 900 60
+[20:29:08][gfx_dx9.cpp:4031]: Loading settings for adapter -1, fullscreen=0, multisample=15
+[20:29:08][gfx_dx9.cpp:4053]: Graphic Adapters: 
+[20:29:08][gfx_dx9.cpp:4061]: 	0: NVIDIA GeForce GTX 1060 6GB
+[20:29:08][gfx_dx9.cpp:4080]: Using Adapter [0] to check for multi-sampling support:
+[20:29:08][gfx_dx9.cpp:4098]: Using Adapter [0]:
+[20:29:08][gfx_dx9.cpp:4104]: Succeeded to create a device [D3DCREATE_HARDWARE_VERTEXPROCESSING].
+[20:29:08][gfx_dx9.cpp:4143]: Graphics device: NVIDIA GeForce GTX 1060 6GB
+[20:29:08][gfx_dx9.cpp:4144]: Graphics driver: nvldumd.dll
+[20:29:08][gfx_dx9.cpp:4145]: Driver version: 8813
+[20:29:08][gfx_dx9.cpp:4160]: 
+
+
+Dumping all gfx info:
+DeviceIdentifier:	{D7B71E3E-5F43-11CF-BF55-8C121BC2DA35}
+VendorId:	4318
+DeviceId:	7171
+SubSysId:	847320162
+Revision:	161
+DriverVersion.HighPart:	1507349
+DriverVersion.LowPart:	860781
+
+
+[20:29:08][gfx_dx9.cpp:4180]: Instancing supported.
+[20:29:08][gfx_dx9.cpp:4229]: Video memory amount: 4095MB
+[20:29:08][gfx_dx9.cpp:4230]: MaxSimultaneousTextures: 8
+[20:29:08][gfx_dx9.cpp:4231]: MaxVertexBlendMatrices: 4
+[20:29:08][gfx_dx9.cpp:4232]: MaxVertexBlendMatrixIndex: 8
+[20:29:08][gfx_dx9.cpp:4233]: MaxSimultaneousTextures: 8
+[20:29:08][gfx_dx9.cpp:4234]: MaxTextureBlendStages: 8
+[20:29:08][gfx_dx9.cpp:4235]: MaxTextureWidth: 16384
+[20:29:08][gfx_dx9.cpp:4236]: MaxTextureHeight: 16384
+[20:29:08][gfx_dx9.cpp:4239]: Vertex Shader version: 3.0
+[20:29:08][gfx_dx9.cpp:4244]: Pixel Shader version: 3.0
+[20:29:08][graphicssettings.cpp:154]: 	2 samples supported.
+[20:29:08][graphicssettings.cpp:154]: 	4 samples supported.
+[20:29:08][graphicssettings.cpp:154]: 	8 samples supported.
+[20:29:08][graphicssettings.cpp:185]: Support for Anisotropic filtering found.
+[20:29:08][graphicssettings.cpp:188]: 	Max Anisotropic filtering supported: 16
+[20:29:08][graphicssettings.cpp:189]: 	Anisotropic filtering set to: 16
+[20:29:27][graphicssettings.cpp:720]: Using multisampling: 4
+[20:29:27][graphics.cpp:819]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=no
+	Resolution=1920x1080
+[20:29:27][graphicssettings.cpp:688]: Usable res: 640 480 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 640 480 72
+[20:29:27][graphicssettings.cpp:688]: Usable res: 640 480 75
+[20:29:27][graphicssettings.cpp:688]: Usable res: 720 480 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 720 576 50
+[20:29:27][graphicssettings.cpp:688]: Usable res: 800 600 56
+[20:29:27][graphicssettings.cpp:688]: Usable res: 800 600 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 800 600 72
+[20:29:27][graphicssettings.cpp:688]: Usable res: 800 600 75
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1024 768 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1024 768 70
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1024 768 75
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1152 864 75
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1176 664 50
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1176 664 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1280 720 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1280 720 50
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1280 768 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1280 800 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1280 960 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1280 960 75
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1280 1024 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1280 1024 75
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1360 768 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1366 768 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1600 900 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1600 1024 59
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1680 1050 59
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1768 992 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1768 992 50
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1920 1080 60
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1920 1080 50
+[20:29:27][graphicssettings.cpp:688]: Usable res: 1440 900 60
+[20:29:27][graphics.cpp:854]: Done creating device.
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[20:30:10][graphicssettings.cpp:720]: Using multisampling: 4
+[22:04:47][graphicssettings.cpp:720]: Using multisampling: 4
+[22:04:47][graphicssettings.cpp:720]: Using multisampling: 4
+[22:04:47][graphicssettings.cpp:720]: Using multisampling: 4
+[22:39:50][graphicssettings.cpp:720]: Using multisampling: 4
+[23:20:07][graphicssettings.cpp:720]: Using multisampling: 4
+[23:20:07][graphicssettings.cpp:720]: Using multisampling: 4

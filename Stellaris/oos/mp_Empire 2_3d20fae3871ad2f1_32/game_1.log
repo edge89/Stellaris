@@ -1,0 +1,16 @@
+[21:13:23][game_application.cpp:283]: Game Version: Cherryh v2.0.2
+[21:13:23][defines.cpp:124]: 1300 defines loaded
+[21:22:26][ingamelobby.cpp:452]: HOTJOIN: Accepting hotjoin from 哈库拉玛塔塔
+[21:22:26][ingamelobby.cpp:544]: Trying to reinit lobbyhumans
+[21:22:26][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[21:22:26][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[21:22:26][ingamelobby.cpp:544]: Trying to reinit lobbyhumans
+[21:22:26][ingamelobby.cpp:728]: HOTJOIN: Creating savegame for hotjoining player.
+[21:22:27][ingamelobby.cpp:780]: nNumOfHotjoins = 1
+[21:22:27][ingamelobby.cpp:781]: Working with 哈库拉玛塔塔
+[21:22:27][ingamelobby.cpp:791]: Savegame sent to hotjoining player.
+[21:23:18][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[21:23:30][ingamelobby.cpp:544]: Trying to reinit lobbyhumans
+[21:23:30][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1
+[21:23:30][ingamelobby.cpp:389]: PlayerArrived3: Local player is 背影 session id is 1
+[21:23:31][ingamelobby.cpp:488]: Onchat:Local player is 背影 session id is 1

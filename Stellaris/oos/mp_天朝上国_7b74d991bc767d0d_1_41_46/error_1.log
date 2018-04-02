@@ -1,0 +1,405 @@
+[19:06:55][lexer.cpp:277]: File 'mod/ugc_1129869415.mod' should be in utf8-bom encoding (will try to use it anyways)
+[19:06:55][lexer.cpp:277]: File 'mod/ugc_1230096820.mod' should be in utf8-bom encoding (will try to use it anyways)
+[19:06:55][lexer.cpp:277]: File 'mod/ugc_1313533917.mod' should be in utf8-bom encoding (will try to use it anyways)
+[19:06:55][lexer.cpp:277]: File 'mod/ugc_734129025.mod' should be in utf8-bom encoding (will try to use it anyways)
+[19:06:55][lexer.cpp:277]: File 'mod/ugc_832446933.mod' should be in utf8-bom encoding (will try to use it anyways)
+[19:14:25][localization_reader.cpp:199]: Expected quotation mark (") at line 33 and column 45 in localisation/french/apocalypse_l_french.yml
+[19:14:25][localization_reader.cpp:223]: Expected quotation mark (") at end of line 275 in localisation/french/horizonsignal_l_french.yml
+[19:14:26][localization_reader.cpp:254]: Illegal break character (utf32=20234) at line 24 and column 136 in localisation/french/prescripted_l_french.yml
+[19:14:26][localization_reader.cpp:151]: Expected colon(:) at line 12 and column 2 in localisation/french/synthetic_dawn_events_l_french.yml
+[19:14:26][localization_reader.cpp:254]: Illegal break character (utf32=20687) at line 328 and column 63 in localisation/french/tutorial_l_french.yml
+[19:14:26][localization_reader.cpp:199]: Expected quotation mark (") at line 383 and column 27 in localisation/french/tutorial_l_french.yml
+[19:15:01][guigraphics.cpp:909]: No font with name null_font
+[19:15:01][guigraphics.cpp:909]: No font with name null_font
+[19:15:01][guigraphics.cpp:909]: No font with name null_font
+[19:15:01][guigraphics.cpp:909]: No font with name null_font
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/AI.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AI.txt(52)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AI.txt(55)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/ART1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/ART1.txt(38)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/ART1.txt(41)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/ART1.txt(44)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/ART2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/ART2.txt(40)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/ART2.txt(43)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/ART2.txt(46)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/ART3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/ART3.txt(40)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/ART3.txt(43)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/ART3.txt(46)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/AVI1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/AVI1.txt(39)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AVI1.txt(42)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AVI1.txt(45)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/AVI2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/AVI2.txt(42)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AVI2.txt(45)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AVI2.txt(48)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/AVI3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/AVI3.txt(41)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/AVI3.txt(44)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/AVI3.txt(47)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/CHN.txt(98)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/CHN.txt(101)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/CHN.txt(102)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/CHN.txt(104)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/CHNX.txt(59)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/CHNX.txt(62)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/CHNX.txt(63)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/CHNX.txt(65)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/Extradimensional.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Extradimensional.txt(20)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/Extradimensional.txt(23)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/FUN1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/FUN1.txt(39)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/FUN1.txt(42)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/FUN1.txt(45)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/FUN2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/FUN2.txt(41)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/FUN2.txt(44)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/FUN2.txt(47)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/FUN3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/FUN3.txt(41)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/FUN3.txt(44)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/FUN3.txt(47)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:orbital_station
+	common/name_lists/HIVE.txt(42)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HIVE.txt(45)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HIVE.txt(48)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/HUM1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM1.txt(42)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM1.txt(45)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/HUM2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM2.txt(42)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM2.txt(45)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/HUM3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM3.txt(44)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM3.txt(47)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/HUM4.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/HUM4.txt(44)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/HUM4.txt(47)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/Human.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Human.txt(43)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/Human.txt(46)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/Human2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Human2.txt(43)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/Human2.txt(46)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/MAM1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MAM1.txt(42)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MAM1.txt(45)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/MAM2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MAM2.txt(41)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MAM2.txt(44)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/MAM3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MAM3.txt(43)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MAM3.txt(46)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/MOL1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MOL1.txt(40)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MOL1.txt(43)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/MOL2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MOL2.txt(41)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MOL2.txt(44)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/MOL3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/MOL3.txt(41)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/MOL3.txt(44)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/PLANT.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT.txt(44)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT.txt(45)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT.txt(47)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/PLANT2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT2.txt(44)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT2.txt(45)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT2.txt(47)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/PLANT3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT3.txt(44)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT3.txt(45)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT3.txt(47)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/PLANT4.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PLANT4.txt(45)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:terraform_station
+	common/name_lists/PLANT4.txt(46)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/PLANT4.txt(48)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/PRT1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PRT1.txt(47)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/PRT2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/PRT2.txt(48)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/Prethoryn.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/Prethoryn.txt(41)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/REP1.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/REP1.txt(43)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/REP1.txt(46)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/REP2.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/REP2.txt(43)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/REP2.txt(46)
+[19:15:22][lexer.cpp:277]: File 'common/name_lists/REP3.txt' should be in utf8-bom encoding (will try to use it anyways)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:wormhole_station
+	common/name_lists/REP3.txt(44)
+[19:15:22][namelist.cpp:575]: Error: Failed Reading Ship Names!
+	Reason: Invalid Ship Size:outpost_station
+	common/name_lists/REP3.txt(47)
+[19:15:22][event_chain.cpp:106]: Event chain "tutorial_16_chain" is missing localization for "tutorial_16_chain_desc".
+[19:15:26][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[19:15:26][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[19:15:26][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[19:15:51][persistent.cpp:34]: Error: "Unexpected token: ﻿, near line: 2
+Unexpected token: =, near line: 2
+" in file: "common/random_names/00_pop_faction_names.txt" near line: 18
+[19:15:51][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_1].  file: common/random_names/00_pop_faction_names.txt line: 469
+[19:15:51][trigger_impl.cpp:13645]: invalid pop faction type [democratic_election_faction_2].  file: common/random_names/00_pop_faction_names.txt line: 504
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[21:54:59][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[21:56:19][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[21:58:35][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[22:02:47][effect_impl.cpp:3029]: Failed to get a random class namelist in create_species effect. ClassTag = SWARM.  file: events/crisis_events_1.txt line: 2355
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[22:06:37][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[22:24:02][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[22:46:11][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 559
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/scripted_triggers/00_scripted_triggers.txt line: 560
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19130
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19136
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19137
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19145
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19146
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19147
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19154
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19160
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19165
+[22:47:13][trigger.cpp:366]: country scope contains invalid object at file: common/diplo_phrases/00_diplo_phrases.txt line: 19171
